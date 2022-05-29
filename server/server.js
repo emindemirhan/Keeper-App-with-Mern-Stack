@@ -64,6 +64,7 @@ app.post("/delete", function(req,res){
     });
 });
 
-app.listen(4000, function() {
-    console.log("Node Server started on port 4000");
+const port = process.env.PORT
+app.listen(process.env.PORT || 4000, function() {
+  console.log(`Example app listening at http://localhost:${port}`);
 });
