@@ -63,8 +63,7 @@ app.post("/delete", function(req,res){
         }
     });
 });
-
-const port = process.env.PORT
+const PORT = process.env.PORT || 4000
 app.listen(process.env.PORT || 4000, function() {
-  console.log(`Example app listening at http://localhost:${port}`);
+  console.log(`Example app listening at http://localhost:4000`);
 });
