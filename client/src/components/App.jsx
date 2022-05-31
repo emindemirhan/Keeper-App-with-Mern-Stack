@@ -8,7 +8,7 @@ import Note from "./Note";
 import CreateArea from "./CreateArea";
 import axios from "axios";
 
-const url = "http://localhost:4000";
+const url = "https://mysterious-tundra-50505.herokuapp.com";
 
 function App() {
   const [notes, setNotes] = useState([]);
