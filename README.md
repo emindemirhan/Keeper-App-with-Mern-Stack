@@ -1,5 +1,5 @@
 # Keeper-App-with-Mern-Stack
-[![Netlify Status](https://api.netlify.com/api/v1/badges/39ffbd05-d1ac-43c5-b874-d03312eab20c/deploy-status)]([https://fantastic-rabanadas-c2f547.netlify.app/](https://app.netlify.com/sites/fantastic-rabanadas-c2f547/deploys))
+[![Netlify Status](https://api.netlify.com/api/v1/badges/39ffbd05-d1ac-43c5-b874-d03312eab20c/deploy-status)](https://app.netlify.com/sites/fantastic-rabanadas-c2f547/deploys)
 
 This is a complete MERN stack project. it uses React for the front-end, Node & Express for the back-end & MongoDB for the database.
  
